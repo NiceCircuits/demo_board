@@ -197,6 +197,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for demo_pcb\demo_board.RUL
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for demo_pcb\Design Rule Check - demo_board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
