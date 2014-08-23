@@ -172,6 +172,19 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGQPRLIR
 
+[ProjectVariant1]
+Description=Std
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=C24|UniqueId=\CCUGGMRS|Kind=0|AlternatePart= 
+Variation2=Designator=C30|UniqueId=\FQCLOAFY|Kind=0|AlternatePart= 
+Variation3=Designator=C32|UniqueId=\FAFPNRCJ|Kind=0|AlternatePart= 
+Variation4=Designator=C31|UniqueId=\HNIJOEYI|Kind=0|AlternatePart= 
+Variation5=Designator=C33|UniqueId=\CPNANLEL|Kind=0|AlternatePart= 
+Variation6=Designator=C34|UniqueId=\CNRCONIE|Kind=0|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for demo_pcb\demo_board.EXTREP
 DItemRevisionGUID=
